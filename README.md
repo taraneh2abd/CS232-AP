@@ -1,4 +1,4 @@
-# Advanced Programming (CS232)
+# Advanced Programming  (CS232)
 
 ## Introduction
 
